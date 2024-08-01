@@ -5,17 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full Stack development(MERN)
-- 🌱 I’m currently learning new technologies and dive deep into them
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Full Stack or App development
-- 📫 How to reach me: bajajgagandeep1@gmail.com 
-- 😄 Pronouns: She/her
+
 - ⚡ Fun fact: ...
 
 
--->## GSSOC(24) Badges 🪶
+-->
+ 🔭 I’m currently working on MERN Stack projects
+- 🌱 I’m currently learning new technologies and diving deep into them
+- 💬 Ask me about Full Stack or App development
+- 📫 How to reach me: bajajgagandeep1@gmail.com 
+- 😄 Pronouns: She/her
+
+  
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
